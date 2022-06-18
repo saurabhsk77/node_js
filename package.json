@@ -1,0 +1,25 @@
+{
+  "name": "node_learning",
+  "version": "1.0.0",
+  "description": "node learning package",
+  "main": "basic_api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saurabhsk77/node_js.git"
+  },
+  "keywords": [
+    "node_js"
+  ],
+  "author": "saurabh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saurabhsk77/node_js/issues"
+  },
+  "homepage": "https://github.com/saurabhsk77/node_js#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
