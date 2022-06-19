@@ -5,7 +5,7 @@
 const path = require("path");
 const fs = require("fs");
 const { log } = require("console");
-const dirPath = path.join(__dirname, "files");
+const dirPath = path.join(__dirname, "../files");
 //create file
 fs.writeFileSync(`${dirPath}/intro.txt`, "my name is saurabh");
 
